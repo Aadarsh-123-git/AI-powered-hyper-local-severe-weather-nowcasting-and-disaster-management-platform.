@@ -1,0 +1,6 @@
+{
+  "name": "MEGH-AI — Hyper-Local Severe Weather Nowcasting Platform",
+  "description": "Real-time AI nowcasting platform predicting severe thunderstorms, cloudbursts, and flash floods 2-6 hours ahead using IMDAA reanalysis, INSAT-3D/3DR satellite data, and DEM-based flood routing for disaster management authorities and first responders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
