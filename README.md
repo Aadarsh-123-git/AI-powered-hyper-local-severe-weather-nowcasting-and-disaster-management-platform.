@@ -20,14 +20,7 @@ MEGH-AI bridges this gap by fusing multi-source telemetry data:
 
 ---
 
-## 🌐 Localhost Access Link
-
-Once the development server is running, open your web browser and go to:
-
-👉 **[http://localhost:3000](http://localhost:3000)**
-
-*(If port `3000` is already in use, Next.js will automatically launch on `http://localhost:3001`).*
-
+## Deployment link: https://ai-powered-hyper-local-severe-weath.vercel.app/
 ---
 
 ## 💻 Step-by-Step Installation & Setup Guide (VS Code)
